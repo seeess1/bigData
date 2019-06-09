@@ -1,6 +1,6 @@
 ## Big Data
 
-![alt text](images/spark_sample.png)
+![alt text](data/spark_sample.png)
 
 Screenshot from Pyspark script analyzing SAT Math performance in NYC based on access to different subway lines. The snapshot shows the RDD transformations used to find the top 5 subway lines in NYC with the highest mean SAT Math scores.
 

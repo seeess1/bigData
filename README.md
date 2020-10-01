@@ -8,6 +8,6 @@
 
 ### Overview
 
-This repo contains exercises and projects I completed for Big Data Management at NYU in the Spring of 2019. We used MapReduce and PySpark to stream massive datasets and find connections in the widely-used Enron email data set and to find spatial patterns in taxi cab rides and Twitter usage.
+This repo contains exercises and projects I completed for Big Data Management at NYU in the Spring of 2019. We used MapReduce and PySpark to stream massive datasets and find patterns in the infamous Enron email data set, NYC taxi data, and Twitter.
 
 Also check out my repos [nyuProjects](https://github.com/seeess1/nyuProjects "nyuProjects") and [machineLearning](https://github.com/seeess1/machineLearning "machineLearning") for examples of other work with scikit-learn, pandas, and SQL.
